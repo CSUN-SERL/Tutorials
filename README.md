@@ -9,7 +9,7 @@ Some links to learn basic linux commands. It is very important that you understa
 - http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands
 - http://linuxcommand.org/
 
-# Basic ROS Installation and ROS
+# ROS
 ROS Installation and Documentation: 
 - Make sure that you install ROS-KINETIC http://wiki.ros.org/
 
@@ -21,7 +21,7 @@ Other Tutorials:
 
 # C# and Unity
 
-A Mess of Links. Thanks Kevin K.
+A Mess of Links. Thanks Kevin K. Intro is background information on C# and Unity. Software is a series of pluigins, IDE's, libraries, etc that are helpful. Unity 2017 is the last section with the most recent version.
 
 Intro:
 - https://en.wikipedia.org/wiki/.NET_Framework
@@ -34,7 +34,7 @@ Intro:
 - https://unity3d.com/unity/features/multiplatform
 - https://madewith.unity.com/games
 
-Plugins and Other Software
+Software
 - https://code.visualstudio.com/?wt.mc_id=vscom_downloads
 - https://account.jetbrains.com/login
 - https://www.ubuntu.com/download/desktop
