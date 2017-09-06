@@ -1,0 +1,17 @@
+Tutorials:
+https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial
+https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial
+
+Documentation:
+https://docs.unity3d.com/Manual/index.html
+https://docs.unity3d.com/ScriptReference/index.html
+
+JSON:
+https://www.w3schools.com/js/js_json_intro.asp
+
+JSON In C#:
+Unity Native: https://docs.unity3d.com/Manual/JSONSerialization.html
+Good Library: https://www.newtonsoft.com/json
+C# Native: https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/how-to-serialize-and-deserialize-json-data
+
+P.S. JSON Library support might be limited in Unity and their subset of the .Net Framework available.
