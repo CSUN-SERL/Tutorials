@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridJsonImport", "GridJsonImport.csproj", "{AD64E829-3B85-370A-A2B5-0D4E67646522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridJsonImport.Editor.Plugins", "GridJsonImport.Editor.Plugins.csproj", "{CB625B2E-6F3A-A8E7-E79B-D12E15CB96D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD64E829-3B85-370A-A2B5-0D4E67646522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD64E829-3B85-370A-A2B5-0D4E67646522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD64E829-3B85-370A-A2B5-0D4E67646522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD64E829-3B85-370A-A2B5-0D4E67646522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB625B2E-6F3A-A8E7-E79B-D12E15CB96D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB625B2E-6F3A-A8E7-E79B-D12E15CB96D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB625B2E-6F3A-A8E7-E79B-D12E15CB96D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB625B2E-6F3A-A8E7-E79B-D12E15CB96D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
